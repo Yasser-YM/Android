@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Veloanantes</string>
+    <string name="title_velo">Velos</string>
+    <string name="title_parking">Parkings</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="jeanmoulin">JeanMoulin</string>
+    <string name="button_open_map">OPEN</string>
+    <string name="title_activity_station_maps">StationMapsActivity</string>
+    <string name="title_activity_parking_maps">ParkingsMapsActivity</string>
+</resources>
